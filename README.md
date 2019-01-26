@@ -1,6 +1,6 @@
 # Learning
         
-Node2Vwc
+Node2Vec                
 https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf
 
 LINE: Large-scale Information Network Embedding   
