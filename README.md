@@ -14,3 +14,8 @@ http://www.ifp.illinois.edu/~chang87/papers/kdd_2015.pdf
 
 Multi-Type Itemset Embedding for Learning Behavior Success      
 http://www.meng-jiang.com/pubs/learnsuc-kdd18/learnsuc-kdd18-paper.pdf      
+
+
+Noise Contrastive Estimation:
+https://www.tensorflow.org/extras/candidate_sampling.pdf
+
