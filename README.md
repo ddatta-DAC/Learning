@@ -1,3 +1,8 @@
+An Unsupervised Boosting Strategy for Outlier Detection Ensembles               
+Boosting is interesting. how it uses Weighted Pearson coefficient for outlier detection is important as well.
+
+
+
 # Learning
         
 Node2Vec                
