@@ -24,3 +24,5 @@ http://www.meng-jiang.com/pubs/learnsuc-kdd18/learnsuc-kdd18-paper.pdf
 Noise Contrastive Estimation:
 https://www.tensorflow.org/extras/candidate_sampling.pdf
 
+### TSNE                
+https://distill.pub/2016/misread-tsne/                  
