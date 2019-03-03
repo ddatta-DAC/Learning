@@ -26,3 +26,6 @@ https://www.tensorflow.org/extras/candidate_sampling.pdf
 
 ### TSNE                
 https://distill.pub/2016/misread-tsne/                  
+
+
+https://www.andrew.cmu.edu/user/lakoglu/pubs/16-tkdd-selectensemble.pdf                 
